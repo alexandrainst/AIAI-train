@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/alexandrainst/AIAI-train/main/gfx/aiai-train-logo.png" width="auto" height="224">
 </div>
 
-### Deployment and monitoring of machine learning models.
+### Finetuning machine learning models.
 ##### _(pronounced as in "Aye aye captain")_
 
 ______________________________________________________________________
